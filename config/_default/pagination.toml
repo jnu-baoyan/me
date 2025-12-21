@@ -1,0 +1,6 @@
+# Pagination config
+# 分页配置
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = "page"

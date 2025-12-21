@@ -1,0 +1,41 @@
+baseURL = "https://jnu-baoyan.github.io/me/"
+# baseURL = "https://example.com"
+
+# theme
+# 主题
+theme = "LoveIt"
+
+# website title
+# 网站标题
+title = "江南大学 ME 保研仓库"
+
+# determines default content language ["en", "zh-cn", "fr", "pl", ...]
+# 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
+defaultContentLanguage = "zh-cn"
+# language code ["en", "zh-CN", "fr", "pl", ...]
+# 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "zh-CN"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+# 语言名称 ["English", "简体中文", "Français", "Polski", ...]
+languageName = "简体中文"
+# whether to include Chinese/Japanese/Korean
+# 是否包括中日韩文字
+hasCJKLanguage = true
+
+# copyright description used only for seo schema
+# 版权描述，仅仅用于 SEO
+copyright = ""
+
+# whether to use robots.txt
+# 是否使用 robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+# 是否使用 git 信息
+enableGitInfo = true
+# whether to use emoji code
+# 是否使用 emoji 代码
+enableEmoji = true
+
+# ignore some build errors
+# 忽略一些构建错误
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]

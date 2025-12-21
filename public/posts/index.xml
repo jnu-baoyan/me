@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 江南大学 ME 保研仓库</title>
+        <link>http://localhost:1313/me/posts/</link>
+        <description>所有文章 | 江南大学 ME 保研仓库</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 21 Dec 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/me/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>启航絮语</title>
+    <link>http://localhost:1313/me/prepost/</link>
+    <pubDate>Sun, 21 Dec 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/me/prepost/</guid>
+    <description><![CDATA[<h1 id="jnu-cs-baoyan">JNU-CS-BAOYAN</h1>
+<p>欢迎体验 <strong>江南大学机械工程相关专业保研经验分享项目</strong>！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。</p>]]></description>
+</item>
+</channel>
+</rss>
