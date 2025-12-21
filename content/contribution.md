@@ -22,7 +22,7 @@ authorLink: "https://github.com/kleinblue4"
 
 Markdown 是一种轻量级、高效的文件格式，其支持多种文本格式、图片、链接、表格、数学公式等内容。该文件的后缀名为 .md。
 
-对于 Markdown 经验帖的格式，可以参照网站中他人经验帖的格式，或使用我们所提供的[模板](/Template.zip)文件进行撰写。
+对于 Markdown 经验帖的格式，可以参照网站中他人经验帖的格式，或使用我们所提供的[模板](/me/Template.zip)文件进行撰写。
 
 - 对于熟悉 Markdown 的同学，可以使用 VsCode、Typora 等文本编辑器进行撰写。
 
