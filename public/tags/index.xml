@@ -1,8 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - 标签 - 江南大学 ME 保研仓库</title>
-        <link>http://localhost:1313/me/tags/</link>
-        <description>Tags - 标签 - 江南大学 ME 保研仓库</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
-            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/me/tags/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 江南大学 ME 保研仓库</title>
+    <link>http://localhost:1313/me/tags/</link>
+    <description>Recent content in Tags on 江南大学 ME 保研仓库</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+    <webMaster>a2194037898@163.com (RanZe)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <atom:link href="http://localhost:1313/me/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

@@ -1,19 +1,50 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>江南大学 ME 保研仓库</title>
-        <link>http://localhost:1313/me/</link>
-        <description>一个收集了江南大学历届保研经验帖、材料等天才地宝的网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
-            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 21 Dec 2025 15:05:36 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/me/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>启航絮语</title>
-    <link>http://localhost:1313/me/prepost/</link>
-    <pubDate>Sun, 21 Dec 2025 00:00:00 &#43;0000</pubDate>
-    <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/me/prepost/</guid>
-    <description><![CDATA[<h1 id="jnu-me-baoyan">JNU-ME-BAOYAN</h1>
-<p>欢迎体验 <strong>江南大学机械工程相关专业保研经验分享项目</strong>！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江南大学 ME 保研仓库</title>
+    <link>http://localhost:1313/me/</link>
+    <description>Recent content on 江南大学 ME 保研仓库</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+    <webMaster>a2194037898@163.com (RanZe)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 21 Dec 2025 21:16:43 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>启航絮语</title>
+      <link>http://localhost:1313/me/prepost/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate><author>a2194037898@163.com (RanZe)</author>
+      <guid>http://localhost:1313/me/prepost/</guid>
+      <description>&lt;h1 id=&#34;jnu-me-baoyan&#34;&gt;JNU-ME-BAOYAN&lt;/h1&gt;&#xA;&lt;p&gt;欢迎体验 &lt;strong&gt;江南大学机械工程相关专业保研经验分享项目&lt;/strong&gt;！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>保研流程指引</title>
+      <link>http://localhost:1313/me/guide/</link>
+      <pubDate>Sun, 21 Dec 2025 15:05:36 +0800</pubDate><author>a2194037898@163.com (RanZe)</author>
+      <guid>http://localhost:1313/me/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>参考材料</title>
+      <link>http://localhost:1313/me/ref/</link>
+      <pubDate>Sun, 21 Dec 2025 15:05:36 +0800</pubDate><author>a2194037898@163.com (RanZe)</author>
+      <guid>http://localhost:1313/me/ref/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>贡献指南</title>
+      <link>http://localhost:1313/me/contribution/</link>
+      <pubDate>Sun, 21 Dec 2025 15:05:36 +0800</pubDate><author>a2194037898@163.com (RanZe)</author>
+      <guid>http://localhost:1313/me/contribution/</guid>
+      <description>&lt;h1 id=&#34;关于如何贡献&#34;&gt;关于如何贡献&lt;/h1&gt;&#xA;&lt;p&gt;以下将介绍如果提交自己的经验帖文件，过程中若存在问题，可以联系维护者 &lt;a href=&#34;mailto:a2194037898@163.com&#34;&gt;a2194037898@163.com&lt;/a&gt; 咨询解决。感谢大家对 JNU BAOYAN 的鼎力支持！💖&lt;/p&gt;&#xA;&lt;h1 id=&#34;第-1-步经验帖撰写&#34;&gt;第 1 步：经验帖撰写&lt;/h1&gt;&#xA;&lt;p&gt;本项目中经验帖文件的渲染、部署均基于 Markdown 文件格式，因此我们希望大家在撰写经验帖的过程中可以选择该格式文件。&lt;br&gt;&#xA;当然考虑到每个人都有自己的笔记习惯，我们也接受 Word 或 其他格式的经验帖文件，提交后将由维护人员将其转为 Markdown 文件并上线网站。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于本站</title>
+      <link>http://localhost:1313/me/about/</link>
+      <pubDate>Sun, 21 Dec 2025 15:05:36 +0800</pubDate><author>a2194037898@163.com (RanZe)</author>
+      <guid>http://localhost:1313/me/about/</guid>
+      <description>&lt;h1 id=&#34;jnu-cs-baoyan&#34;&gt;JNU-CS-BAOYAN&lt;/h1&gt;&#xA;&lt;p&gt;欢迎体验 &lt;strong&gt;江南大学机械工程相关专业保研经验分享项目&lt;/strong&gt;！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
