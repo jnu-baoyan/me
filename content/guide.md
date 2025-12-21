@@ -15,7 +15,7 @@ images: []
 
 {{< figure src="/cs/TimeLine.png" >}}
 
-# JNU-CS-BAOYAN
+# JNU-ME-BAOYAN
 
 本文主要介绍保研过程中**各个阶段的流程指引**，为后续的保研学子提供有指导性时间线参考。由于本站处于起步阶段，文章内容难免存在错误或缺漏，如有发现请联系网站维护者进行补充修改。感谢大家对于 [JNU-BAOYAN](https://github.com/jnu-baoyan) 的支持 🎉
 

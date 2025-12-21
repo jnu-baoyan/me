@@ -8,7 +8,7 @@ author: Klein
 authorLink: "https://github.com/kleinblue4"
 ---
 
-# JNU-CS-BAOYAN
+# JNU-ME-BAOYAN
 
 欢迎体验 **江南大学机械工程相关专业保研经验分享项目**！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。
 
