@@ -30,6 +30,7 @@ authorLink: "https://github.com/kleinblue4"
 欢迎各位已经上岸的同学分享自己的保研经验，具体贡献流程请参照 **[贡献指南](/me/contribution)**
 
 **问题反馈**：如对本网站有疑问或建议，请通过以下方式联系：
+  - QQ 群：481703190
   - 邮箱：a2194037898@163.com
   - 在 GitHub 提交 [Issue](https://github.com/kleinblue4/JNU-CS-BAOYAN/issues)。
 
